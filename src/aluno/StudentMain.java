@@ -65,6 +65,7 @@ public class StudentMain {
 			System.out.printf("MISSING %.2f POINTS%n", student.missingPoints());
 		} else {
 			System.out.println("PASS");
+			System.out.println("Teste gitHub");
 		}
 		sc.close();
 	}
